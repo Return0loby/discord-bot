@@ -1,0 +1,35 @@
+{
+    "token": "OTkyNDQ2OTIxMzQ2MTM4MjAz.G36zWl.lmPYEsgoYiVF3zGw4iiEhSvnZ7ymvUOi5n-5Wc",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/992501313852149760/F9MNXtqFCYI2NE8CrBmDKzzcJMIUyWrEV54aiK2ZUaMjvr_rrGsEkShhqz44wxo4EvdB": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&brand_id[]=304&order=newest_first",
+            "salon": "lacoste-teeshirt"
+        },
+        "https://discord.com/api/webhooks/992501429556232343/TstYRTXOPo321HvFZgRqPQNfMIQtV05mSQt_spOr3lksg4wi_Mz-97wbRUh96gUnMKYL": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&order=newest_first&brand_id[]=88",
+            "salon": "ralph"
+        },
+        "https://discord.com/api/webhooks/992501515140993114/9X6Pgm_YjOXVO-1Z9q2swYbdVwsFLsA3bsXhhv_VLaugUPN4gIbdlpdQI8MOeWUH_vgZ": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&order=newest_first&brand_id[]=53",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/992509194076954695/0mOgI-yiilgkMwyO4Fl5alyxrcxRB_rjA-edtacYxVawl5aPy0g05aDJ-HCgVBYErVYB": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&order=newest_first",
+            "salon": "nike"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
